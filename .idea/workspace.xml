@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="212da78c-0611-44fb-b784-095841f77920" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/djangoAliyun/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoAliyun/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djangoAliyun/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="79" column="5" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+            <state relative-caret-position="752">
+              <caret line="80" column="1" lean-forward="true" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -60,6 +80,7 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/djangoAliyun/__init__.py" />
         <option value="$PROJECT_DIR$/djangoAliyun/settings.py" />
+        <option value="$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py" />
       </list>
     </option>
   </component>
@@ -86,6 +107,74 @@
               <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
               <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="backends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoAliyun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoAliyun" type="462c0819:PsiDirectoryNode" />
+              <item name="venvs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="backends" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558622239311</updated>
-      <workItem from="1558622262956" duration="4602000" />
+      <workItem from="1558622262956" duration="4870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4602000" />
+    <option name="totallyTimeSpent" value="4870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
@@ -170,12 +259,12 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="manage.py@djangoAliyun" weight="0.329927" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -215,8 +304,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/djangoAliyun/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="79" column="5" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+        <state relative-caret-position="752">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venvs/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
         </state>
       </provider>
     </entry>
